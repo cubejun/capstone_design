@@ -13,5 +13,6 @@
 
 유통기한 임박한 식재료 알람 기능
 
+![image](https://github.com/cubejun/capstone_design/assets/133946040/8bd57f4f-d3dd-4e05-9017-cca5b3e34831)
 
 
