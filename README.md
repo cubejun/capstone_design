@@ -27,5 +27,4 @@ http://openapi.foodsafetykorea.go.kr/api/{api_key}/I2570/json/1/5/BRCD_NO={barco
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/9d2e6a4a-32d9-4b0f-837a-a4d45e25259e)
 
 
-https://github.com/cubejun/capstone_design/assets/133946040/1d3602e0-fa16-4b9b-bb2d-2c7e5ed88346
 
