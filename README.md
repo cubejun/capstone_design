@@ -22,6 +22,7 @@
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/f8bd1b22-9b58-4da4-bc4b-ce2097b0458d)
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/2483f560-f580-4110-9290-29c26e3a240c)
 https://www.foodsafetykorea.go.kr/api/openApiInfo.do?menu_grp=MENU_GRP31&menu_no=656&show_cnt=10&start_idx=1&svc_no=I2570&svc_type_cd=API_TYPE06
+
 http://openapi.foodsafetykorea.go.kr/api/{api_key}/I2570/json/1/5/BRCD_NO={barcode_data}
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/9d2e6a4a-32d9-4b0f-837a-a4d45e25259e)
 
