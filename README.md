@@ -26,5 +26,8 @@ https://www.foodsafetykorea.go.kr/api/openApiInfo.do?menu_grp=MENU_GRP31&menu_no
 http://openapi.foodsafetykorea.go.kr/api/{api_key}/I2570/json/1/5/BRCD_NO={barcode_data}
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/9d2e6a4a-32d9-4b0f-837a-a4d45e25259e)
 
+동작영상
 
+
+https://github.com/cubejun/capstone_design/assets/133946040/c4126a41-9793-4a20-8e2c-39e15648f00f
 
