@@ -31,3 +31,17 @@ http://openapi.foodsafetykorea.go.kr/api/{api_key}/I2570/json/1/5/BRCD_NO={barco
 
 https://github.com/cubejun/capstone_design/assets/133946040/c4126a41-9793-4a20-8e2c-39e15648f00f
 
+----------------------------------------------------------------------------------------------------------------------
+
+4월 28일
+
+ollama 서버 구성
+sudo nano /etc/systemd/system/ollama.service
+수정 Environment="OLLAMA_HOST=0.0.0.0"
+
+![image](https://github.com/cubejun/capstone_design/assets/133946040/aeb036d1-72f1-4b45-b19f-d29334712eb0)
+https://github.com/ollama/ollama/blob/main/docs/faq.md
+
+
+
+
