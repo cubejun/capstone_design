@@ -33,7 +33,9 @@ https://github.com/cubejun/capstone_design/assets/133946040/c4126a41-9793-4a20-8
 
 ----------------------------------------------------------------------------------------------------------------------
 
-#4월 28일
+
+
+# 4월 28일
 
 ollama 서버 구성
 sudo nano /etc/systemd/system/ollama.service
@@ -51,7 +53,10 @@ curl http://192.168.0.4:11434/api/generate -d '{
 https://github.com/cubejun/capstone_design/assets/133946040/91b3e4e3-45e3-4eeb-bd62-e7b6a8962365
 ----------------------------------------------------------------------------------------------------------------
 
-#4월 29일
+
+
+
+# 4월 29일
 
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/b5129dd4-e49b-43b2-8330-670a8ae09099)
 
