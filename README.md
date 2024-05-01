@@ -50,7 +50,11 @@ curl http://192.168.0.4:11434/api/generate -d '{
   "stream": true
 }'
 
-https://github.com/cubejun/capstone_design/assets/133946040/91b3e4e3-45e3-4eeb-bd62-e7b6a8962365
+
+
+https://github.com/cubejun/capstone_design/assets/133946040/33d1f7ff-e80b-4300-bd6d-5f3f22d56a01
+
+
 ----------------------------------------------------------------------------------------------------------------
 
 
