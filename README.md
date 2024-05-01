@@ -44,4 +44,8 @@ https://github.com/ollama/ollama/blob/main/docs/faq.md
 
 
 
+https://github.com/cubejun/capstone_design/assets/133946040/91b3e4e3-45e3-4eeb-bd62-e7b6a8962365
 
+
+
+![image](https://github.com/cubejun/capstone_design/assets/133946040/b5129dd4-e49b-43b2-8330-670a8ae09099)
