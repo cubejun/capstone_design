@@ -42,7 +42,11 @@ sudo nano /etc/systemd/system/ollama.service
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/aeb036d1-72f1-4b45-b19f-d29334712eb0)
 https://github.com/ollama/ollama/blob/main/docs/faq.md
 
-
+curl http://192.168.0.4:11434/api/generate -d '{
+  "model": "tinyllama",
+  "prompt": "Why is the sky blue?",
+  "stream": true
+}'
 
 https://github.com/cubejun/capstone_design/assets/133946040/91b3e4e3-45e3-4eeb-bd62-e7b6a8962365
 
