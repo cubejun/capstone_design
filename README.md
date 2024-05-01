@@ -49,7 +49,15 @@ curl http://192.168.0.4:11434/api/generate -d '{
 }'
 
 https://github.com/cubejun/capstone_design/assets/133946040/91b3e4e3-45e3-4eeb-bd62-e7b6a8962365
+----------------------------------------------------------------------------------------------------------------
 
-
+4월 29일
 
 ![image](https://github.com/cubejun/capstone_design/assets/133946040/b5129dd4-e49b-43b2-8330-670a8ae09099)
+
+
+
+https://github.com/cubejun/capstone_design/assets/133946040/22283e69-5498-4ba7-b107-9cf2839bff03
+
+
+
